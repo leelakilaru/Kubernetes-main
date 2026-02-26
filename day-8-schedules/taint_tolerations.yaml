@@ -24,4 +24,4 @@ spec:
         - key: "app"
           operator: "Equal"
           value: "blue"
-          effect: "NoSchedule"
+          effect: "NoExecute"
